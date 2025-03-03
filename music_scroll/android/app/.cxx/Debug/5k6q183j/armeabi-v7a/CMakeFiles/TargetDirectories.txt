@@ -1,0 +1,2 @@
+C:/Users/HP/AndroidStudioProjects/music_scroll_part1/music_scroll/android/app/.cxx/Debug/5k6q183j/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/HP/AndroidStudioProjects/music_scroll_part1/music_scroll/android/app/.cxx/Debug/5k6q183j/armeabi-v7a/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,48 @@
+name: music_scroll
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  supabase_flutter: ^2.8.3
+  cupertino_icons: ^1.0.8
+  app_links: ^6.0.0
+  spotify_sdk: ^3.0.2
+  youtube_explode_dart: ^2.3.9
+  youtube_player_flutter: ^9.1.1
+  flutter_inappwebview: ^6.0.0
+  just_audio: ^0.9.46
+  flutter_cache_manager: ^3.3.0
+  flutter_isolate: ^2.0.4
+  webview_flutter: ^4.10.0
+  csv: ^6.0.0
+  dart_ytmusic_api: ^1.0.8
+  crypto: ^3.0.6
+  audio_service: ^0.18.17
+  hive: ^2.2.3
+  path_provider: ^2.1.5
+  hive_flutter: ^1.1.0
+  provider: ^6.0.0 # Or the latest version
+  genius_lyrics: ^1.0.1
+  html: ^0.15.4
+  dio: ^5.4.0
+  permission_handler: ^11.0.1  # Requesting storage permissions
+  shared_preferences: ^2.2.2  # Storing downloaded song metadata (optional)
+
+
+  http: any
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/songs.csv
