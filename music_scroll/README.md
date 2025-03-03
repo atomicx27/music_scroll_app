@@ -1,16 +1,27 @@
-# music_scroll
+# 🎵 Music Scroll App
 
-A new Flutter project.
+A **Flutter-based music app** that lets users scroll through songs in a **Reels-style UI**, play songs via **YouTube Explode & Just Audio**, and view lyrics with **AZLyrics API**.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- ✅ **Reels-Style Music Scrolling** – Swipe vertically to browse and play songs  
+- ✅ **AI-Generated Dynamic Backgrounds** – Song-specific visuals for a unique experience  
+- ✅ **Lyrics Integration** – Fetch lyrics using AZLyrics API  
+- ✅ **Random Song Mode with Filters** – Filter by **Language, Year, Mood**  
+- ✅ **Optimized Performance** – Parallel fetching for smooth loading  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📲 Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Prerequisites
+- Flutter SDK installed ([Download](https://flutter.dev/docs/get-started/install))  
+- Android Studio / VS Code setup with Flutter  
+- A working internet connection  
+
+### Steps to Run
+1. **Clone the Repository**  
+   ```sh
+   git clone https://github.com/YOUR_USERNAME/music_scroll_app.git
+   cd music_scroll_app
